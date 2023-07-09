@@ -19,6 +19,9 @@ a {
 h2 {
   color: var(--Wh);
 }
+h3 {
+  color: var(--Wh);
+}
 .DisplayText{
   font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
   max-width: 500px;
@@ -26,6 +29,12 @@ h2 {
 }
 
 .info{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.IP{
   font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
   max-width: 1000px;
   margin: auto;
