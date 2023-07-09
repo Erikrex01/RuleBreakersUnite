@@ -7,6 +7,8 @@ body {
 }
 h1{
   color: var(--Wh);
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+
 }
 p {
   color: var(--Wh);
