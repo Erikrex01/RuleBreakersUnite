@@ -21,9 +21,12 @@ h2 {
 }
 .DisplayText{
   font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 500px;
+  margin: auto;
 }
 
 .info{
   font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
-
+  max-width: 1000px;
+  margin: auto;
 }
