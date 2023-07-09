@@ -45,5 +45,42 @@ h3 {
 }
 .IP_BUTTOM
 {
-  margin-left : 20px
+  margin-left : 20px;
+
+  background-color: #262626;
+  color: var(--Wh);
+  border-radius: 4px;
+  border-radius:
+  font-family: inherit;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.DISCORD{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.DISCORD_TEXT{
+  display: inline-block;
+}
+.DISCORD_A{
+  font-size: 18px;
+  display: inline-block;
+  font-weight: bold;
+
+}
+
+.DISCORD_BUTTOM
+{
+  margin-left : 20px;
+
+  background-color: #262626;
+  color: var(--Wh);
+  border-radius: 4px;
+  border-radius:
+  font-family: inherit;
+  cursor: pointer;
+  box-shadow: none;
 }
