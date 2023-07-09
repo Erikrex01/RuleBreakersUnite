@@ -39,3 +39,11 @@ h3 {
   max-width: 1000px;
   margin: auto;
 }
+
+.IP_TEXT{
+  display: inline-block;
+}
+.IP_BUTTOM
+{
+  margin-left : 20px
+}
