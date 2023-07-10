@@ -1,0 +1,43 @@
+:root {
+  --Wh : #c7c7c7
+}
+
+body {
+  background-color: #262626
+}
+h1{
+  color: var(--Wh);
+
+}
+p {
+  color: var(--Wh);
+
+}
+a {
+  color: var(--Wh);
+}
+h2 {
+  color: var(--Wh);
+  font-size: 30px
+}
+h3 {
+  color: var(--Wh);
+}
+
+.DisplayText{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 500px;
+  margin: auto;
+}
+
+.info{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 390px;
+  margin: auto;
+}
+
+.Commands{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 500px;
+  margin: auto;
+}
