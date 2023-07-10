@@ -84,3 +84,9 @@ h3 {
   cursor: pointer;
   box-shadow: none;
 }
+
+.YT_VIDEO{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
