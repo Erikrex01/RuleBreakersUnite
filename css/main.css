@@ -103,3 +103,17 @@ h3 {
   font-weight: bold;
 
 }
+
+
+.ClientsLink{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.ClientsA{
+  font-size: 18px;
+  display: inline-block;
+  font-weight: bold;
+
+}
