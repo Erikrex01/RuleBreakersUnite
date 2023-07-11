@@ -117,3 +117,16 @@ h3 {
   font-weight: bold;
 
 }
+
+.SocialA{
+  font-size: 18px;
+  display: inline-block;
+  font-weight: bold;
+
+}
+
+.SocialLink{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
