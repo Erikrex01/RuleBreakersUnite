@@ -48,3 +48,10 @@ h3 {
   font-weight: bold;
 
 }
+
+
+.info{
+  font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+  max-width: 390px;
+  margin: auto;
+}
